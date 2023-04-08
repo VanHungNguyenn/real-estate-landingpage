@@ -3,11 +3,16 @@
 This is a sample project for a webpage that includes HTML and CSS code (not responsive). The design can be found [here](https://www.figma.com/file/KrcOkQBv1VrGQUvwcqX2ZE)
 
 -   [Clone Real Estate Landing Page](#clone-real-estate-landing-page)
+    -   [Demo](#demo)
     -   [Features](#features)
     -   [Usage](#usage)
     -   [Technologies Used](#technologies-used)
     -   [Contributing](#contributing)
     -   [License](#license)
+
+## Demo
+
+This page demo in [here](real-estate-landingpagee.netlify.app)
 
 ## Features
 
