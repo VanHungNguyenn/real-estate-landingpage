@@ -13,6 +13,7 @@ module.exports = {
 			gray31: '#31353b',
 			grayda: '#dadada',
 			gray33: '#333333',
+			navyf1: '#F1FFFF',
 		},
 	},
 	plugins: [],
